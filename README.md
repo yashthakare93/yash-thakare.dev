@@ -9,7 +9,7 @@
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=flat&logo=Next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=React&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat&logo=TypeScript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=JavaScript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=flat&logo=Tailwind+CSS&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-000000.svg?style=flat&logo=framer&logoColor=white&color=F12E8A)
 ![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=flat&logo=Vercel&logoColor=white)
