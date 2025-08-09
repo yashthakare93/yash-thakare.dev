@@ -1,36 +1,43 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Next.js Portfolio Template - yash-thakare.dev
+<p align="left">
+  <img alt="last-commit" src="https://img.shields.io/github/last-commit/yashthakare93/yash-thakare.dev?style=flat&logo=git&logoColor=white&color=0080ff" style="margin: 0px 2px;"> 
+  <img alt="repo-top-language" src="https://img.shields.io/github/languages/top/yashthakare93/yash-thakare.dev?style=flat&color=0080ff" style="margin: 0px 2px;"> 
+  <img alt="repo-language-count" src="https://img.shields.io/github/languages/count/yashthakare93/yash-thakare.dev?style=flat&color=0080ff" style="margin: 0px 2px;">
+</p>
 
-## Getting Started
+🚀 A sleek, modern developer portfolio built with **Next.js 15**, **React 19**, and **Turbopack** — designed for performance, accessibility, and dark mode support.
 
-First, run the development server:
+![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=flat&logo=Next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=React&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat&logo=TypeScript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=flat&logo=Tailwind+CSS&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-000000.svg?style=flat&logo=framer&logoColor=white&color=F12E8A)
+![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=flat&logo=Vercel&logoColor=white)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🌟 Features
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- ✅ **Next.js 15 App Router** – Built with the latest React 19 and Turbopack for ultra-fast dev experience
+- 🎨 **Tailwind CSS + shadcn/ui** – Styled with utility classes and accessible UI components (`@radix-ui`, `lucide-react`)
+- 🌙 **Dark Mode Support** – Smooth theme toggling with `next-themes`
+- 🌀 **Animations** – Beautiful transitions powered by `framer-motion`
+- 📱 **Fully Responsive** – Looks great on all devices
+- 🔍 **SEO Optimized** – Metadata, Open Graph, and semantic HTML
+- ⚙️ **Code Quality** – ESLint + Prettier for clean, consistent code
+- 🚀 **Optimized Performance** – Leverages Next.js Image, lazy loading, and minimal bundle size
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🛠️ Tech Stack
 
-To learn more about Next.js, take a look at the following resources:
+| Category      | Tools & Libraries |
+|--------------|-------------------|
+| Framework     | Next.js 15, React 19, React DOM |
+| Styling       | Tailwind CSS, `tailwind-merge`, `clsx`, `class-variance-authority`, `tailwindcss-animate` |
+| UI Components | `@radix-ui/react-slot`, `lucide-react`, `react-icons` |
+| Animation     | `framer-motion` |
+| Theme         | `next-themes` |
+| Dev Tools     | ESLint, PostCSS, Autoprefixer, Turbopack |
+| Hosting       | Vercel |
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
